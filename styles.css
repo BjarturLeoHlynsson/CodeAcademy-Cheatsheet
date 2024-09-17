@@ -1,0 +1,41 @@
+* {
+  background-color: black;
+  font-family: "Fira Code", system-ui;
+  font-optical-sizing: auto;
+  color: green;
+  padding: 0 3px;
+}
+
+h1 { 
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  font-size: 15px;
+}
+
+th {
+  text-align: center;
+}
+
+td { 
+  border-top: 3px solid green;
+}
+
+table {
+  border: 5px solid green;
+  margin: 0 auto;
+  width: 800px;
+}
+
+code {
+  font-size: 20px;
+}
+
+footer {
+  text-align: center;
+}
